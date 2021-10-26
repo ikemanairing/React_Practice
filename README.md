@@ -3,5 +3,13 @@
 
 
 ## Practice 1
+useEffect Example - Timer, Form Input 
 
-input form을 이용한 React 앱입니다.
+## Practice 2
+useEffect Example - Checkbox alert
+
+## Practice 3
+default App
+
+## Practice 4 
+Props, useState Example - Color Analysis 
