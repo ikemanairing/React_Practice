@@ -21,3 +21,7 @@ Props, useState Example - Color Analysis
 ## Practice 5
 
 createContext, useContext Example - Count, Timer App
+
+## Practice 6
+
+Object Control
