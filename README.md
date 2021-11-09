@@ -25,3 +25,7 @@ createContext, useContext Example - Count, Timer App
 ## Practice 6
 
 Object Control
+
+## Practice 7
+
+memo function - Cat name component
